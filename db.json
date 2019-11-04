@@ -84,5 +84,21 @@
       "ratings": "4.6",
       "actions": ""
     }
+  ],
+  
+  "staff": [
+    {
+      "id": 1,
+      "username": "Wish9919",
+      "name": "Wishvantha Perera",
+      "contactno": "0771234567",
+      "email": "wishvantha@explorelogy.lk",
+      "address": "Explorelogy PVT LTD, Colombo, Sri Lanka",
+      "userrole": "Data Entry",
+      "edit": "",
+      "view": ""
+    }
   ]
+
+
 }
