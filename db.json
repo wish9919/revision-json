@@ -1,67 +1,79 @@
-{
-  "products": [
-    {
-      "id": 1,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 2,
-      "chapter": "Force",
-      "title": "Introduction of Gravity 2",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 3,
-      "chapter": "Algebra",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 4,
-      "chapter": "Algebra",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 5,
-      "chapter": "Algebra",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 6,
-      "chapter": "Algebra",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 7,
-      "chapter": "Algebra",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 8,
-      "chapter": "Algebra",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 9,
-      "chapter": "Algebra",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "chapter": "Gravitation Fields",
+    "title": "Introduction of Gravity",
+    "ratings": "4.6",
+    "actions": ""
+  },
+  {
+    "id": 2,
+    "chapter": "Force",
+    "title": "Introduction of Gravity 2",
+    "ratings": "4.6",
+    "actions": ""
+  },
+  {
+    "id": 3,
+    "chapter": "Algebra",
+    "title": "Introduction of Gravity 3",
+    "ratings": "4.6",
+    "actions": ""
+  },
+  {
+    "id": 4,
+    "chapter": "Algebra",
+    "title": "Introduction of Gravity 3",
+    "ratings": "4.6",
+    "actions": ""
+  },
+  {
+    "id": 5,
+    "chapter": "Algebra",
+    "title": "Introduction of Gravity 3",
+    "ratings": "4.6",
+    "actions": ""
+  },
+  {
+    "id": 6,
+    "chapter": "Algebra",
+    "title": "Introduction of Gravity 3",
+    "ratings": "4.6",
+    "actions": ""
+  },
+  {
+    "id": 7,
+    "chapter": "Algebra",
+    "title": "Introduction of Gravity 3",
+    "ratings": "4.6",
+    "actions": ""
+  },
+  {
+    "id": 8,
+    "chapter": "Algebra",
+    "title": "Introduction of Gravity 3",
+    "ratings": "4.6",
+    "actions": ""
+  },
+  {
+    "id": 9,
+    "chapter": "Algebra",
+    "title": "Introduction of Gravity 3",
+    "ratings": "4.6",
+    "actions": ""
+  },
+  {
+    "id": 10,
+    "chapter": "Algebra",
+    "title": "Introduction of Gravity 3",
+    "ratings": "4.6",
+    "actions": ""
+  },
+  {
+    "id": 11,
+    "chapter": "Algebra",
+    "title": "Introduction of Gravity 3",
+    "ratings": "4.6",
+    "actions": ""
+  }
+]
