@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "chapter": "Gravitation Fields",
+      "title": "Introduction of Gravity",
+      "ratings": "4.6",
+      "actions": ""
+    },
+    {
+      "id": 2,
+      "chapter": "Gravitation Fields",
+      "title": "Introduction of Gravity 2",
+      "ratings": "4.6",
+      "actions": ""
+    },
+    {
+      "id": 3,
+      "chapter": "Gravitation Fields",
+      "title": "Introduction of Gravity 3",
+      "ratings": "4.6",
+      "actions": ""
+    }
+  ]
+}
