@@ -98,6 +98,18 @@
       "edit": "",
       "view": ""
     }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Wish9919",
+      "nic": "Wishvantha Perera",
+      "gender": "0771234567",
+      "exam_year": "wishvantha@explorelogy.lk",
+      "address": "Explorelogy PVT LTD, Colombo, Sri Lanka",
+      "city": "Data Entry",
+      "action": ""
+    }
   ]
 
 
