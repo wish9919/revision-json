@@ -2,88 +2,12 @@
   "products": [
     {
       "id": 1,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity",
+      "chapter": "Information Technology",
+      "title": "Who is the Father of Computer?",
       "ratings": "4.6",
       "actions": ""
     },
-    {
-      "id": 2,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity 2",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 3,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 4,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 5,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 6,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 7,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 8,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 9,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 10,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 11,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    },
-    {
-      "id": 12,
-      "chapter": "Gravitation Fields",
-      "title": "Introduction of Gravity 3",
-      "ratings": "4.6",
-      "actions": ""
-    }
+    
   ],
   
   "staff": [
